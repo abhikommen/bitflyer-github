@@ -24,6 +24,7 @@ class HomeViewModel @Inject constructor(
 ) {
     init {
         viewModelScope.launch {
+            getGitHubUsersUseCase.refreshUsers()
             sendEvent(HomeEvent.HomeListLoading(true))
             getGitHubUsersUseCase.getUsersFlow()
                 .collectLatest { userList ->
