@@ -107,8 +107,8 @@ One of the significant highlights of this app is **offline support**:
     - Optionally displays their latest activities or repos.
 
 **Screenshots (Placeholder):**  
-*(https://private-user-images.githubusercontent.com/30040958/418765401-b8b58eb9-fb76-4d97-8bab-32a0b890fd1d.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDEwNDIyNDAsIm5iZiI6MTc0MTA0MTk0MCwicGF0aCI6Ii8zMDA0MDk1OC80MTg3NjU0MDEtYjhiNThlYjktZmI3Ni00ZDk3LThiYWItMzJhMGI4OTBmZDFkLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAzMDMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMzAzVDIyNDU0MFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTNkNTJiNzk1OWM0NWJlMDYzMTRiYTZjNDNjYjEzZjAzMTMzZWMxNzk3ZDdhZTM5YzgzYjYwNGMzMDA4ZjgzYTkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.dEWdvrvsF6EdiYX4V1W8U8cBw47iYy9nmxPmt9oQnVQ)*
-*(https://private-user-images.githubusercontent.com/30040958/418765402-4ddc98ad-26ab-41d1-826e-d64ffa403038.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDEwNDIyNDAsIm5iZiI6MTc0MTA0MTk0MCwicGF0aCI6Ii8zMDA0MDk1OC80MTg3NjU0MDItNGRkYzk4YWQtMjZhYi00MWQxLTgyNmUtZDY0ZmZhNDAzMDM4LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAzMDMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMzAzVDIyNDU0MFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWNkOTFlNzVjM2RjMTBjZmRlYTlkY2U5Y2ExMmI5OTY2ZTRkN2U5ZThiZjcxYWQ0ODA1YjI0Y2Q3MTA5MWYwMzImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.GFkljqY5zUYqECbXm-32aXdeL5F18Dpgr13LMmJvCQ4)*
+[Image 1](https://private-user-images.githubusercontent.com/30040958/418765401-b8b58eb9-fb76-4d97-8bab-32a0b890fd1d.png?jwt=eyJhbGci...)
+[Image 2](https://private-user-images.githubusercontent.com/30040958/418765402-4ddc98ad-26ab-41d1-826e-d64ffa403038.png?jwt=eyJhbGci...)
 
 ---
 
@@ -116,7 +116,7 @@ One of the significant highlights of this app is **offline support**:
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/yourrepo.git
+   git clone https://github.com/abhikommen/bitflyer-github.git
    cd yourrepo
    ```
 2. **Open in Android Studio**
